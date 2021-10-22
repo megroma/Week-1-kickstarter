@@ -13,6 +13,14 @@ In our analysis, we first needed to separate the subcategories from the parent c
 
 ![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/90511014/138529928-c9706de5-fd30-4b93-b16f-4a8ebe3cebef.png)
 
+### Analysis of Outcomes Based on Goals
+As part of the analysis based on the goals, we determined the descriptive statistics of both the goal and pledged amounts for successful and failed US campaigns in the category of play. These statistics are below. Next, using the count function, we created a chart based on the number of each outcome in $5000 ranges. From this we determined the percentage of each outcome from each range.  We then created a line chart that visualizes the relationship between these outcomes and the goal range as shown below. 
+
+<img width="238" alt="Descriptive_Statistics" src="https://user-images.githubusercontent.com/90511014/138532036-aabc8403-6b15-417a-a367-ab5526d4e56d.png">
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90511014/138532041-6a3f8ce2-0b1e-4b2b-a3aa-2f5c3a074360.png)
+
+
 
 # An Analysis of Kickstarter Campaigns
 This analysis attempts to detemine the relationship between Sucecessful and failed kickstarter campaign and determining factors such as category and goal of the campaign.
