@@ -31,7 +31,7 @@ The main challenge encountered is the possibility of other confounding variables
 
 Based on the data we can determine the best month to launch a successful Theater campaign is May. 
 Although there are many failed theater campaigns that were launched in May, June, July, and October; May June and July still had a significant number of successful campaigns.  The worst month to launch a campaign in is December as there is the least number of successful campaigns while still maintaining an average number of failed campaigns. 
-I would recommend that the next campaign is launched in in May if possible. I would also avoid Launching in October or December. 
+I would recommend that the next campaign is launched in in May if possible. I would also avoid launching in October or December. 
 
 ### Results of Outcomes Based on Goals 
 Based on the descriptive statistics there are large outliers that are skewing the data. This means that there were a few very large goals that varied significantly from the rest of the data. The most successful campaigns are those less than $5,000. Campaigns with a goal between $5,000 and $24,999 have a good likelihood of success ranging from 45% to 55% with a higher success at the lower goals. At $25,000 the success rate falls significantly. The percentage successful does increase again between $35,000 to $44,999 but this may be unrelated to the of the goal.
